@@ -1,6 +1,6 @@
 # Knot0
 
-Run AI agents anywhere. Orchestration, execution, and governance for production AI.
+Software that assembles itself. Agents that write code, coordinate, and improve over time.
 
 ### Open Source
 
